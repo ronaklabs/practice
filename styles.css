@@ -69,8 +69,13 @@ ul > li > a:hover{
 .intro {
     width: 50%;
 }
+
 .hero-img {
-    width: 40%;
+    width: 25%;
+}
+
+.hero-img img {
+    max-width: 458px;
 }
 
 h1 {
